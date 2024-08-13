@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+In tic tac toe game, some simple future of basic react has been added like useState, props etc .
 
 Currently, two official plugins are available:
 
